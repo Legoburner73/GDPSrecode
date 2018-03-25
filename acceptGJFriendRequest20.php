@@ -1,0 +1,3 @@
+<?php
+//Friend Accepted Code
+?>
